@@ -1,0 +1,19 @@
+# Node.js modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretórios de build
+dist/
+build/
+
+# Sistema de arquivos
+.DS_Store
+.env
+
+# Outros arquivos de configuração que você pode não querer rastrear
+.idea/
+.vscode/
